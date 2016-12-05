@@ -13,3 +13,7 @@ https://raw.githubusercontent.com/u9lyfish/wb-op-highlight/master/jkmagic.min.js
 ![Step 2](https://raw.githubusercontent.com/u9lyfish/wb-op-highlight/master/screenshots/step-2.png)
 4. 在微博界面点击刚刚保存的书签即可生效
 ![Step 3](https://raw.githubusercontent.com/u9lyfish/wb-op-highlight/master/screenshots/step-3.png)
+
+## 感谢
+
+感谢 @Zx 提供关键的 review comments
